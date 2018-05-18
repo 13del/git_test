@@ -1,4 +1,8 @@
 hola mundo
 que tal?
+<<<<<<< HEAD
 modificacion a master
 
+=======
+branch1
+>>>>>>> branch1
